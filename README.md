@@ -37,3 +37,9 @@ Throughout the development process of ShopPWA, a collaborative approach with a c
 In summary, ShopPWA is a robust e-commerce PWA showcasing essential online shopping features combined with the performance and reliability benefits of PWA technology. With its responsive design, comprehensive product handling, and offline capabilities, it provides a compelling example of how web applications can deliver a native-app-like experience.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bc32c102-4de0-4459-a2bf-d85d4c145a5e)
+![Image](https://github.com/user-attachments/assets/f79e1e46-e79f-4ba2-b836-81ddad0a23fc)
+![Image](https://github.com/user-attachments/assets/22d49db4-8811-466f-a8e1-59eb51795842)
+![Image](https://github.com/user-attachments/assets/632c7a53-aa1d-413d-9210-a5b76be68cc8)
+![Image](https://github.com/user-attachments/assets/a38eb924-7f27-4e3a-a0e1-9fdae582929c)
